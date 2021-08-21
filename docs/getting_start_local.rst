@@ -19,8 +19,8 @@ Install
 
 Download the MapnikTileServer & openstreetmap-carto.::
 
-    $ git clone git@github.com:OpenHistoricalDataMap/MapnikTileServer.git
-    $ git clone git@github.com:linuxluigi/openstreetmap-carto.git
+    $ git clone https://github.com/OpenHistoricalDataMap/MapnikTileServer.git
+    $ git clone https://github.com/linuxluigi/openstreetmap-carto.git
 
 Go to the MapnikTileServer and build up all images. This could take some time.::
 
